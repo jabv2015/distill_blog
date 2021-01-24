@@ -1,14 +1,14 @@
 ---
-title: "Welcome to My Blog"
+title: "Introduction to Advanced Macroeconomics"
 description: |
   Welcome to our new blog, My Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: 01-24-2021
+  - name: Javier Beltran 
+    url: https://jabv2015.github.io
+    affiliation: Facultad de Economía y Negocios. Universidad de Talca
+    affiliation_url: https://www.utalca.cl
+date: "`r Sys.Date()`"
 output:
   distill::distill_article:
     self_contained: false
@@ -22,5 +22,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-
+Here we are going to find the Syllabus, schedule and some initial ideas about the content to be discused in the course.
 

@@ -1,19 +1,19 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
+    "title": "Introduction to Advanced Macroeconomics",
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Javier Beltran",
+        "url": "https://jabv2015.github.io"
       }
     ],
     "date": "2021-01-24",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\nHere we are going to find the Syllabus, schedule and some initial ideas about the content to be discused in the course.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-01-24T19:26:53-03:00",
-    "input_file": {}
+    "last_modified": "2021-01-24T20:18:21-03:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
