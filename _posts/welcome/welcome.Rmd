@@ -5,9 +5,9 @@ description: |
   reading what we have to say!
 author:
   - name: Javier Beltran 
-    url: https://jabv2015.github.io
+    url: https://jabv2015.github.io 
     affiliation: Facultad de Economía y Negocios. Universidad de Talca
-    affiliation_url: https://www.utalca.cl
+    affiliation_url: https://www.utalca.cl 
 date: "`r Sys.Date()`"
 output:
   distill::distill_article:
