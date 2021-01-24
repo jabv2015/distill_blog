@@ -1,8 +1,7 @@
 ---
-title: "Advanced Macroeconomics I"
+title: "Introduction"
 description: |
-  Welcome to our new blog, My Blog. We hope you enjoy 
-  reading what we have to say!
+  Let´s review some macroeconomics models!
 author:
   - name: Javier Beltran 
     url: https://jabv2015.github.io 
@@ -22,5 +21,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Here we are going to find the Syllabus, schedule and some initial ideas about the content to be discused in the course.
+Macroeconomic Modelling
 
